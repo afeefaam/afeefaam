@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything to enhance my learning!
 - 📫 How to reach me at my linkedin: https://www.linkedin.com/in/afeefamalik/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love chocolate ice cream!
 
 <!---
 afeefaam/afeefaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
