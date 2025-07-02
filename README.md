@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @afeefaam
-- 👀 I’m interested in programming and UX/UI design.
-- 🌱 I know Python, Java & C.
-- 💞️ I’m looking to collaborate on anything to enhance my learning!
-- 📫 How to reach me at my linkedin: https://www.linkedin.com/in/afeefamalik/
-- 😄 Pronouns: she/her
+# 👋 Hi, I’m Afeefa Malik (@afeefaam)
+
+🎨 I’m passionate about **UX/UI design** and building aesthetically pleasing, functional interfaces.  
+💻 I’m learning full-stack development — currently focused on **React**, **JavaScript**, and **TypeScript**.  
+🧠 I also have experience with **Python**, **Java**, and **C**.  
+🤝 I’m open to collaborating on creative, impactful projects to grow my skills.  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/afeefamalik/)  
+🌸 Pronouns: she/her
+
   
 <!---
 afeefaam/afeefaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
